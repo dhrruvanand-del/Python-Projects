@@ -1,5 +1,5 @@
 import math
-
+#The work here is verified and developed by Zioles(Dhrruv)
 
 def trig_ratios(angle_deg):
     angle_rad = math.radians(angle_deg)
