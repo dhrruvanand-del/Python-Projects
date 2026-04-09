@@ -1,6 +1,6 @@
 # Academic Python Collection (Class 11 PCM)
 
-This repository serves as a centralized workspace for the computational tools I develop alongside my Class 10 studies.
+This repository serves as a centralized workspace for the computational tools I develop alongside my Class 8,9,10 and 11 studies.
 
 ## 🚀 Purpose
 The goal is to bridge the gap between theoretical Physics/Mathematics and practical programming logic. These scripts are used to verify complex calculations and simulate physical phenomena.
