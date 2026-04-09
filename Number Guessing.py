@@ -1,5 +1,5 @@
 import random
-
+# Isn't it fun!? It's developed and de-bugged by Zioles(Dhrruv)
 
 def start_game():
     target = random.randint(1, 100)
