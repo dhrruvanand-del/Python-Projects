@@ -1,5 +1,5 @@
 import math
-
+#Developed and verfied by Zioles(Dhrruv)
 
 def calculate_resultant():
     print("--- Vector Resultant Tool ---")
@@ -17,3 +17,4 @@ def calculate_resultant():
 
 if __name__ == "__main__":
     calculate_resultant()
+    
