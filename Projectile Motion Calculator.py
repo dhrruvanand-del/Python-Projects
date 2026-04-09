@@ -1,7 +1,7 @@
 import math
 # Acceleration due to gravity (m/s^2)
 g = 9.81
-
+# Developed and verified by Zioles(Dhrruv)
 
 def calculate_projectile(u, theta_deg):
     # Convert angle to radians
