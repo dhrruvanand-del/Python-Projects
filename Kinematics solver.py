@@ -3,7 +3,7 @@ def solve_kinematics(u, a, t):
     v = u + (a * t)
     s = (u * t) + (0.5 * a * (t**2))
     return v, s
-
+# Hi there! Do you like the tool? It's developed by Zioles(Dhrruv)!
 
 print("--- Kinematics Solver (v = u+at) ---")
 u = float(input("Initial velocity (u): "))
