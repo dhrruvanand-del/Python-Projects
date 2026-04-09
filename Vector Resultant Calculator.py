@@ -1,5 +1,5 @@
 import math
-
+#All credits to Zioles(Dhrruv) took me a while for this.
 def calculate_resultant(f1, f2, theta_degrees):
     # Converting degrees to radians for math.cos
     theta_rad = math.radians(theta_degrees)
