@@ -3,7 +3,7 @@ import sympy as sp
 from typing import List, Tuple, Callable
 from functools import lru_cache
 import itertools
-
+# It took me a lot of time..But it's completely developed, verified and De-bugged by Zioles(Dhrruv)
 
 class Manifold11D:
     """
