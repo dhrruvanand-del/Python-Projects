@@ -5,10 +5,10 @@ from dataclasses import dataclass, field
 from enum import Enum
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Set
-
+# It's completely developed, De-bugged and verified by Zioles(Dhrruv)
 DATA_DIR = Path(__file__).resolve().parent
 HIGHSCORE_FILE = DATA_DIR / "hangman_highscores.json"
-
+# Anyways it took me a lot of time to right so you better have fun.
 WORD_BANK = [
     "algorithm",
     "microcontroller",
