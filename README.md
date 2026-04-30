@@ -1,5 +1,5 @@
 # Academic Python Collection (Class 11 PCM)
-
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dhrruvanand-del&show_icons=true&theme=radical)
 This repository serves as a centralized workspace for the computational tools I develop alongside my Class 8,9,10 and 11 studies.
 
 ## 🚀 Purpose
