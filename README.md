@@ -16,6 +16,36 @@ The goal is to bridge the gap between theoretical Physics/Mathematics and practi
 * *Language:* Python 3.12
 * *IDE:* Visual Studio Code
 * *Libraries:* math, random, requests
+
+  <h1 align="center">Hi 👋, I'm Dhrruv Anand</h1>
+<h3 align="center">A Passionate Computer Science Student from India</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhrruvanand-del" alt="dhrruvanand-del" /></a> </p>
+
+- 🔭 I’m currently working on [Python Games](https://github.com/dhrruvanand-del/Python-Games)
+
+- 🌱 I’m currently learning **Python and Java**
+
+- 👯 I’m looking to collaborate on [Physics Simulations](https://github.com/dhrruvanand-del/Python-Projects)
+
+- 🤝 I’m looking for help with [Making my programs more efficient](https://github.com/dhrruvanand-del/Python-Projects)
+
+- 👨‍💻 All of my projects are available at github [https://github.com/dhrruvanand-del](https://github.com/dhrruvanand-del)
+
+- 💬 Ask me about **Physics**
+
+- 📫 How to reach me **dhrruvanand@gmail.com**
+
+- ⚡ Fun fact **I'm 16 years old**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
 ## 🔭 Current Focus
 - 📚 **Academic:** Preparing for JEE/IAT with a focus on Theoretical Physics & Calculus.
 - 💻 **Coding:** Developing simulations for classical mechanics and learning LaTeX for documentation.
