@@ -14,4 +14,7 @@ The goal is to bridge the gap between theoretical Physics/Mathematics and practi
 * *Language:* Python 3.12
 * *IDE:* Visual Studio Code
 * *Libraries:* math, random, requests
-*
+## 🔭 Current Focus
+- 📚 **Academic:** Preparing for JEE/IAT with a focus on Theoretical Physics & Calculus.
+- 💻 **Coding:** Developing simulations for classical mechanics and learning LaTeX for documentation.
+- 🧪 **Research Interests:** String Theory and Computational Physics.
