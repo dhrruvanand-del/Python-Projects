@@ -113,4 +113,4 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ---
 
-**Developed with ❤️ by Dhrruv**
+**Developed with ❤️ by Dhrruv Anand(Zioles).**
