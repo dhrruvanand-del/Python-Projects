@@ -9,7 +9,7 @@ The goal is to bridge the gap between theoretical Physics/Mathematics and practi
 * *Physics Simulations:* Projectile motion, Vector analysis, and Gravitational calculations.
 * *Mathematical Utilities:* Trigonometric ratios and Quadratic solvers.
 * *API Integration:* Real-time data fetching (Weather/ISS Tracking) using the requests library.
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrruvanand-del&layout=compact&theme=radical)
 ## 🛠️ Environment
 * *Language:* Python 3.12
 * *IDE:* Visual Studio Code
